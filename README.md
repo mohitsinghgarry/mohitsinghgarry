@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">Crafting Code: A BTech's Odyssey through Computer Science, Full Stack Development, and Java Expertise</h3>
-<p align style="border-radius:40px" ="center"> <img style=" width:50rem; border-radius:1rem;" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxtYmJlamgyaHFoNnhhb3BheXExbWI5OG51M3BzZ2R1NG5sc2djaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/></p>
+<p align style="border-radius:40px" ="center"> <img style=" width:35rem; border-radius:1rem;" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxtYmJlamgyaHFoNnhhb3BheXExbWI5OG51M3BzZ2R1NG5sc2djaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsinghgarry&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsinghgarry" /> </p>
 
