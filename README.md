@@ -13,10 +13,6 @@
   <img style="width:35rem; border-radius:1rem;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxtYmJlamgyaHFoNnhhb3BheXExbWI5OG51M3BzZ2R1NG5sc2djaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitsinghgarry&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🏆 <span>GitHub Trophies:</span></h2><a id="user-content--github-trophies" class="anchor" aria-label="Permalink: 🏆 GitHub Trophies:" href="#-github-trophies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -139,6 +135,10 @@
 </table></markdown-accessiblity-table>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitsinghgarry&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 <p align="center">
   ✨ "Always learning, always growing. Let's build something amazing together!" ✨
