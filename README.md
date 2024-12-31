@@ -2,7 +2,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #141E30, #243B55); padding: 20px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=35&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohit+Singh!;Welcome+to+my+GitHub😊&fontWeight=bold)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Baloo&size=35&duration=2000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohit+Singh!;Welcome+to+my+GitHub😊&fontWeight=bold)](https://git.io/typing-svg)
 
 </div>
 
