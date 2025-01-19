@@ -120,17 +120,18 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://inventory-managment-pro.vercel.app/" rel="nofollow">Inventory Pro</a></td>
+<td>Inventory Management for businesses a complete business webapplication</td>
+</tr>
+<tr>
 <td><a href="https://cartopiaecommerce.netlify.app" rel="nofollow">Cartopia</a></td>
 <td>Cartopia An Ecommerce platform for online shopping </td>
 </tr>
 <tr>
-<td><a href="https://opportunityorbitjobportal.netlify.app/" rel="nofollow">Opportunity Orbit</a></td>
+<td><a href="https://opportunity-orbit-job-portal.vercel.app/" rel="nofollow">Opportunity Orbit</a></td>
 <td>A Job portal for job seekers</td>
 </tr>
 <tr>
-<td><a href="https://frontend-inventory-managment.vercel.app/" rel="nofollow">Inventory Pro</a></td>
-<td>Inventory Management for businesses a complete business webapplication</td>
-</tr>
 <tr>
 <td><a href="https://weather-backend-new.onrender.com/" rel="nofollow">Weatherify</a></td>
 <td>Weather application for checking states related to Weather and atmosphere</td>
