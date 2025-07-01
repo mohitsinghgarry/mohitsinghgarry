@@ -28,7 +28,7 @@
 
 - 🔄 Currently working on: [Cartopia: E-commerce Web](https://cartopiaecommerce.netlify.app/)
 - 📚 Learning: **Express.js, MongoDB**
-- 🔎 Open to collaborating on: [My Portfolio](https://mohitsinghport.netlify.app/)
+- 🔎 Open to collaborating on: [My Portfolio](https://mohitsinghgarryportfolio.vercel.app/)
 - 🔧 All Projects: [Visit Here](https://mohitsinghport.netlify.app/)
 - 💬 Ask me about: **New Tech and Technologies**
 - 📧 Reach me: **mohitsinghx4@gmail.com**
