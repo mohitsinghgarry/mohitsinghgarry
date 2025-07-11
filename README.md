@@ -133,7 +133,7 @@
 </tr>
 <tr>
 <tr>
-<td><a href="https://weather-backend-new.onrender.com/" rel="nofollow">Weatherify</a></td>
+<td><a href="https://weatherify-weather-application.onrender.com/" rel="nofollow">Weatherify</a></td>
 <td>Weather application for checking states related to Weather and atmosphere</td>
 </tr>
 </tbody>
